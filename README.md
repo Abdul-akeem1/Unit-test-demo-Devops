@@ -12,5 +12,4 @@ This project uses GitHub Flow.
 
 - GitHub Actions runs the tests on every PR, and branches are kept after merging.
 
-## Problems I encountered
-I noticed the generated tests needed a manual fix because the tool guessed the wrong import path. 
+## See RETROSPECTIVE.md for the sprint review
