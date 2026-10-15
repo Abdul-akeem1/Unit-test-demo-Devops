@@ -11,3 +11,6 @@ This project uses GitHub Flow.
 - Changes are merged into `main` only via pull request, and each PR links its issue.
 
 - GitHub Actions runs the tests on every PR, and branches are kept after merging.
+
+## Problems I encountered
+I noticed the generated tests needed a manual fix because the tool guessed the wrong import path. 
