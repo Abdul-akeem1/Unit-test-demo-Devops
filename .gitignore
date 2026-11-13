@@ -1,2 +1,9 @@
+# environment and secrets
+.env
+.env.local
+config/secrets.json
+*.pem
+*.key
+
 node_modules/
 coverage/
