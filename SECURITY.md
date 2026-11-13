@@ -1,17 +1,17 @@
+# Security Policy
+
 ## Supported Versions
 
-The following versions of the Adder project are currently being supported with security updates.
+The following versions of the Unit testing sprint project are currently being supported with security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 3.0.x   | :white_check_mark: |
-| 2.0.x   | :white_check_mark: |
-| < 1.0   | :x:                |
+- Latest code on the `main` branch: supported
+- Older commits, branches and forks: not supported
 
 ## Security/Bugfix Versions
-Security and bug fixes are generally provided only for the last minor version. Fixes are released either as part of the next minor version or as an on-demand patch version.
 
-Security fixes are given priority and might be enough to cause a new version to be released.
+Security and bug fixes are only provided for the latest code on `main`. Fixes are released as a pull request that is merged into `main`.
+
+Security fixes are given priority over other changes.
 
 ## Reporting a Vulnerability
 
@@ -32,4 +32,4 @@ Please include the requested information listed below (as much as you can provid
 
 This information will help us triage your report more quickly.
 
-If you are absolutely unable to or have strong reasons not to use GitHub's vulnerability reporting workflow, please reach out to ruth.lennon@atu.ie.
+If you are absolutely unable to or have strong reasons not to use GitHub's vulnerability reporting workflow, please reach out to l00192762@atu.ie.
